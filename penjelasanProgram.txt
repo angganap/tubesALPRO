@@ -1,0 +1,28 @@
+         ===Aplikasi Hitung Pajak===
+Kami membuat program penghitung pajak sederhana 
+yang terdiri dari PPH, PPnMb(atau disingkat PPn 
+saja), dan PBB dengan sistem perhitungan mengacu 
+pada aturan yang ada (diambil dari beberapa
+sumber) dengan menginput atau memilih pada
+menu (tergantung pajak yang dipilih). Kami memilih
+program ini karena kami merasa program penghitung
+pajak ini akan mudah dibuat programnya dengan 
+mengaplikasikan beberapa materi alpro yang sudah 
+dipelajari
+
+Fitur-fitur yang ada pada program ini ialah menginput
+pajak yang dipunyai,menghitung pajak dan membayar 
+pajak sesuai dengan username dan password yang 
+diinputkan, serta file seluruh total tunggakan pajak 
+yang diurutkan dari yang pertama kali buat akun (untuk 
+file bersifat opsional dan menu penggunaan file ini berada 
+di menu tanggungan pajak).
+
+Alur program:
+1. pilih menu 'buat akun' terlebih dahulu, lalu 
+input username dan password
+2. Login dengan username dan password yang sudah
+dibuat
+3. Pilih menu yang diinginkan
+4. jika ingin menggunakan username lain, pilih pilihan 
+'exit' lalu pilih 'buat akun' seperti diawal.
